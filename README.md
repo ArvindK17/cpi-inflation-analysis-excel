@@ -5,6 +5,13 @@ Analysis of India's Consumer Price Index (CPI) from 2013 to 2023, built in Excel
 The goal was to answer five business questions: which categories drive the CPI basket, how inflation trended year-on-year, what pushed food inflation up, how COVID-19 affected different categories, and how closely category inflation tracks imported oil prices.
 
 ---
+## Quick Access
+
+📄 [Project Report](./Project%20Report/CPI_Inflation_Portfolio_Report_V2.pdf)
+
+📊 [Excel Workbook](./Excel%20Workbook/CPI%20Inflation%20Project.xlsx)
+
+---
 
 ## Dataset
 
@@ -73,11 +80,6 @@ cpi-inflation-analysis-excel
 ├── Screenshots
 └── README.md
 ```
-
-- Excel Workbook: `Excel Workbook/CPI Inflation Project.xlsx`
-- Project Report: `Project Report/CPI_Inflation_Portfolio_Report_V2.pdf`
-
----
 
 ## Author
 
