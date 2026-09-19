@@ -74,8 +74,8 @@ cpi-inflation-analysis-excel
 └── README.md
 ```
 
-- Excel Workbook: `Excel_Workbook/CPI Inflation Project.xlsx`
-- Project Report: `Project_Report/CPI_Inflation_Portfolio_Report_V2.pdf`
+- Excel Workbook: `Excel Workbook/CPI Inflation Project.xlsx`
+- Project Report: `Project Report/CPI_Inflation_Portfolio_Report_V2.pdf`
 
 ---
 
