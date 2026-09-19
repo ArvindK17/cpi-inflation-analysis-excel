@@ -23,7 +23,7 @@ The goal was to answer five business questions: which categories drive the CPI b
 | Categories | 27 CPI categories |
 | Tools | Excel, Power Query |
 
-Source link: `Dataset_Source/Source_Link.txt`
+📂 [Dataset Source Information](./Dataset_Source/Source_Link.txt)
 
 ---
 
