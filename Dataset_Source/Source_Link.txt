@@ -1,0 +1,6 @@
+Government of India CPI Data
+
+Source:
+https://mospi.gov.in/
+
+Dataset used for educational and analytical purposes.
