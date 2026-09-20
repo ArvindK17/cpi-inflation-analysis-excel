@@ -59,7 +59,7 @@ The final structure — Sector, Year, Month, Categories, Indexes, Broader Catego
 **4. COVID-19 Impact** — Food, Health, and Transport saw the sharpest fluctuations after the March 2020 lockdown.
 ![COVID Impact Assessment](https://github.com/ArvindK17/cpi-inflation-analysis-excel/raw/main/Screenshots/05_COVID_Impact_Assessment.png)
 
-**5. Oil Price Correlation** — Transport & Communication had the strongest positive correlation with fuel price changes of any category (r = **[INSERT VALUE]**).
+**5. Oil Price Correlation** — Transport & Communication had the strongest positive correlation with fuel price changes of any category (r = **0.67**).
 ![Oil Price Correlation](https://github.com/ArvindK17/cpi-inflation-analysis-excel/raw/main/Screenshots/06_Oil_Price_Correlation.png)
 
 ---
